@@ -1,0 +1,9 @@
+{
+  "name": "project-a",
+  "version": "1.0.0",
+  "dependencies": {
+    "ansi-regex": "^3.0.0",
+    "lodash": "^4.17.21",
+    "shared-lib": "^1.0.0"
+  }
+}
